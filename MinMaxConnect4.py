@@ -1248,7 +1248,5 @@ if __name__ == "__main__":
     
     #TESTING FUNCTIONS
 #    con4 = Connect4()
-#
 #    constraints_test(con4)
-#
 #    heuristic_test(con4)
